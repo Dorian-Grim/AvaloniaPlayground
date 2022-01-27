@@ -1,1 +1,3 @@
 # AvaloniaPlayground
+
+This framework seems cool and I want to try it out...
